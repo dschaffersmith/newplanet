@@ -1,2 +1,2 @@
-# newplanet
+# newplanet.
 new challenge
